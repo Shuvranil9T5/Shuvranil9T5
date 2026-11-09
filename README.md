@@ -1,7 +1,7 @@
 # Hi, I'm Shuvranil 👋
 
 ### 🚀 About Me
-- 2nd Year CSE Student  
+- 3rd Year CSE Student  
 - Web Developer & DSA Enthusiast  
 - Aspiring Google Summer of Code (GSoC) Contributor  
 - Passionate about Open Source and Problem Solving  
