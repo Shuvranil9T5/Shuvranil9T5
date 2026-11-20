@@ -144,15 +144,24 @@ A distributed systems project focused on understanding service dependencies, det
 
 ---
 
-## 🐍 Contribution Activity
 
-<div align="center">
+<h2 align="center">🐍 Contribution Activity</h2>
 
-![Snake animation](https://raw.githubusercontent.com/Shuvranil9T5/Shuvranil9T5/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shuvranil9T5/Shuvranil9T5/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shuvranil9T5/Shuvranil9T5/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Shuvranil9T5/Shuvranil9T5/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-</div>
-
----
 
 ## 🎯 Currently Focused On
 
