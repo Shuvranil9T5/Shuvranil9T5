@@ -38,7 +38,7 @@ class Shuvranil:
     motto = "Build. Experiment. Learn. Improve."
 ```
 
-- 🎓 Final-year Computer Science Engineering student at ITER, Siksha 'O' Anusandhan University.
+- 🎓Third-year Computer Science Engineering student at ITER, Siksha 'O' Anusandhan University.
 - 🧠 Interested in deep learning, computer vision, explainable AI and scalable software systems.
 - 🔬 Working on research-driven AI projects involving Vision Transformers and biometric analysis.
 - ⚙️ Building backend systems, microservices and full-stack applications.
